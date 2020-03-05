@@ -2,7 +2,7 @@
 
 ## Project
 
-this project is about creating an audio system of scene that made by official 
+this project is about creating an audio system of scene that made by official site
 
 ## Disclamer
 
